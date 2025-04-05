@@ -7,15 +7,15 @@ Tech Lead at [@Meta](https://meta.com.br/) and  [@BRFGlobal](https://www.brf-glo
 - **Front-End Tech Lead:** Leading innovative projects and guiding teams towards success.
 - **Passionate about Technology & Design:** I believe that combining exceptional design with cutting-edge technology creates transformative experiences.
 - **Programmer since 12 years old:** Constantly striving to improve my skills and explore new technologies.
-- **Educator and Mentor:** I have been teaching since I was 16, which ignited my passion for education and developing people.
+- **Educator and mentor:** I have been teaching since I was 16, which ignited my passion for education and developing people.
 
 ## Achievements 🔥
 
-- **30+ Projects Delivered:** Extensive experience as a product designer, software engineer, and tech lead.
-- **100+ Technical Validations:** Ensuring technical excellence and best practices within my teams.
-- **Impact on 1M+ Users and Clients:** Delivering solutions that have transformed the experience for over one million end-users and clients.
-- **Startup Mentorship:** Collaborated with various startups, helping to turn innovative ideas into successful products.
-- **Talks and Workshops:** Conducted events and training sessions, sharing knowledge and inspiring the next generation of technology professionals.
+- **30+ Projects delivered:** Extensive experience as a product designer, software engineer, and tech lead.
+- **100+ Technical validations:** Ensuring technical excellence and best practices within my teams.
+- **Impact on 1M+ users and clients:** Delivering solutions that have transformed the experience for over one million end-users and clients.
+- **Startup mentorship:** Collaborated with various startups, helping to turn innovative ideas into successful products.
+- **Talks and workshops:** Conducted events and training sessions, sharing knowledge and inspiring the next generation of technology professionals.
 
 ## Fun Fact 🥋
 
