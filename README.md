@@ -13,7 +13,7 @@ Tech Lead at [@Meta](https://meta.com.br/) and  [@BRFGlobal](https://www.brf-glo
 
 - **30+ Projects delivered:** Extensive experience as a product designer, software engineer, and tech lead.
 - **100+ Technical validations:** Ensuring technical excellence and best practices within my teams.
-- **Impact on 1M+ users and clients:** Delivering solutions that have transformed the experience for over one million end-users and clients.
+- **Impact on 1M+ users and clients:** Delivering solutions that have transformed the experience for over one million users and clients.
 - **Startup mentorship:** Collaborated with various startups, helping to turn innovative ideas into successful products.
 - **Talks and workshops:** Conducted events and training sessions, sharing knowledge and inspiring the next generation of technology professionals.
 
