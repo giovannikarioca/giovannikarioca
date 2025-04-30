@@ -1,6 +1,6 @@
 # Hi there, welcome to my profile! 👋
 
-Tech Lead at [@Meta](https://meta.com.br/) and  [@BRFGlobal](https://www.brf-global.com/) , passionate about technology and design. I have been exploring and implementing the best concepts and technologies in web, mobile, software engineering, and architecture.
+I’m a Tech Lead and Software Engineer at [@Meta](https://meta.com.br/) and [@BRFGlobal](https://www.brf-global.com/), passionate about both technology and design. I specialize in building cross-platform mobile applications for Android and iOS using React Native—as well as native development with Kotlin and Swift. On the web side, I have deep expertise in React JS, Next JS and vanilla JavaScript, and on the server side I’ve built back-end services with Node JS and Go.
 
 ## About me ⭐
 
